@@ -4,3 +4,4 @@ Code Base
 >Cloud Jumps Function,
 >Valley Counting Function,
 >Repeated String Finder Function
+>Sum Of Pairs Sets And WholeSet
