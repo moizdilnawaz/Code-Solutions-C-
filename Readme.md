@@ -12,6 +12,6 @@ Code Base
 
 >Hourglass Sum
 
->Find two Indexes which sum the target Number
+>Find two Indexes whose sum is the Target Number Variable
 
-Update 9
+Update 10
