@@ -12,4 +12,6 @@ Code Base
 
 >Hourglass Sum
 
-Update 8
+>Find two Indexes which sum the target Number
+
+Update 9
